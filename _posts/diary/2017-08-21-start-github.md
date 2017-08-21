@@ -8,4 +8,4 @@ categories : diary
 I start github to make blog!
 
 
-![Github](./img/Octocat.png)
+![octocat](https://octodex.github.com/images/femalecodertocat.png)
