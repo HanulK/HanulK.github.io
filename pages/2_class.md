@@ -29,22 +29,22 @@ permalink: /class/
 * Contents :
 
 1. STL vector  
-{% highlight lua %}
-std::vector<float> smt;  
-std::cout << smt.size() << std::endl;  
-// " print 0 "  
-smt.push_back(data);  
-std::cout << smt.size() << std::endl;  
-// " print data "  
-{% endhighlight %}
+  {% highlight lua %}
+  std::vector<float> smt;  
+  std::cout << smt.size() << std::endl;  
+  // print 0  
+  smt.push_back(data);  
+  std::cout << smt.size() << std::endl;  
+  // print data  
+  {% endhighlight %}
 
 2. STL map  
-{% highlight lua %}
-std::map<int, std::vector<float> > ten;
-// key : int type & value : float type ->> ten[key] = value
-{% endhighlight %}
+  {% highlight lua %}
+  std::map<int, std::vector<float> > ten;
+  // key : int type & value : float type ->> ten[key] = value
+  {% endhighlight %}
 
 3. Class  
-{% highlight lua %}
-anything
-{% endhighlight %}
+  {% highlight lua %}
+  anything
+  {% endhighlight %}
