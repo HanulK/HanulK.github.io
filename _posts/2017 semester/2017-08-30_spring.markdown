@@ -2,7 +2,7 @@
 layout: post
 title:  "17 spring semester"
 date:   2017-08-30
-categories: 2017_semester
+categories: 2017 semester
 comments: false
 ---
 
