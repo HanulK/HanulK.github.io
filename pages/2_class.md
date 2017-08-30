@@ -26,7 +26,7 @@ permalink: /class/
 ### 2017 summer
 * Period : 2017-07-03 ~ 2017-07-31
 * Company : kw-tech
-* Contents :   
+* Contents :
 
  1) STL vector  
 {% highlight lua %}
