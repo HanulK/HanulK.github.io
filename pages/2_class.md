@@ -52,15 +52,16 @@ class smt
   member variables;
   member functions;
 };
+
 void smt::member functions
 { }
+
 int main()
 {
   smt static;  
   // class static allocation  
   smt * dynamic = new smt();  
   // class dynamic allocation  
-
   return 0;
 }
 {% endhighlight %}
