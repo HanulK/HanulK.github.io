@@ -41,10 +41,26 @@ std::cout << smt.size() << std::endl;
  2) STL map  
 {% highlight lua %}
 std::map<int, std::vector<float> > ten;
-// key : int type & value : float type ->> ten[key] = value
+// key : int type & value : float type  
+// ten[key] = value
 {% endhighlight %}
 
  3) Class  
 {% highlight lua %}
-anything
+class smt
+{
+  member variables;
+  member functions;
+};
+void smt::member functions
+{ }
+int main()
+{
+  smt static;  
+  // class static allocation  
+  smt * dynamic = new smt();  
+  // class dynamic allocation  
+
+  return 0;
+}
 {% endhighlight %}
