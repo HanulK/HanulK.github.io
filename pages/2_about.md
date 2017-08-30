@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: about
 comments: false
 permalink: /about/
 ---
