@@ -28,7 +28,7 @@ permalink: /class/
 * Company : kw-tech
 * Contents :
 
- 1) STL vector  
+  1) STL vector  
 {% highlight lua %}
 std::vector<float> smt;  
 std::cout << smt.size() << std::endl;  
@@ -37,12 +37,12 @@ smt.push_back(data);
 std::cout << smt.size() << std::endl;  
 // print data  
 {% endhighlight %}
- 2) STL map  
+  2) STL map  
 {% highlight lua %}
 std::map<int, std::vector<float> > ten;
 // key : int type & value : float type ->> ten[key] = value
 {% endhighlight %}
- 3) Class  
+  3) Class  
 {% highlight lua %}
 anything
 {% endhighlight %}
