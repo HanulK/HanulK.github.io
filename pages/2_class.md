@@ -30,9 +30,11 @@ permalink: /class/
 1. STL vector  
 {% highlight lua %}
 std::vector<float> smt;  
-std::cout << smt.size() << std::endl; ->> " print 0 "  
+std::cout << smt.size() << std::endl;  
+// " print 0 "  
 smt.push_back(data);  
-std::cout << smt.size() << std::endl; ->> " print data "  
+std::cout << smt.size() << std::endl;  
+// " print data "  
 {% endhighlight %}
 
 1. STL map  

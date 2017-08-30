@@ -8,17 +8,17 @@ permalink: /language/
 * content
 {:toc}
 
-# Programming Languages
+## Programming Languages
 2017 spring semester : Fortran & C++ language
 
-## Fortran
+### Fortran
 * Started : 2017-03
 * Why I started this language :  
 to code BCFD problems
 * Reference site :  
 [fortran/basics.html](http://seismic.yonsei.ac.kr/fortran/basics.html)
 
-## C++ language
+### C++ language
 * Started : 2017-06
 * Why I started this language :  
 to use making program at company
