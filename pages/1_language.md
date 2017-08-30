@@ -8,14 +8,14 @@ permalink: /language/
 * content
 {:toc}
 
-# All my Programming Languages
-2017 spring semester :
+# Programming Languages
+2017 spring semester : Fortran & C++ language
 
-# All my projects
-Following are projects started by me.
+## Fortran
+* Started : 2017-03
+* reference site : [Foratran](http://seismic.yonsei.ac.kr/fortran/basics.html)
 
-## NPL project
-* Started: 2004-present
-* Website: [www.nplproject.com](http://www.nplproject.com)
-   * NPL Code Wiki
-   * NPL language service and debugger
+## C++ language
+* Started : 2017-06
+* reference site : [C](https://www.tutorialspoint.com/cprogramming/)
+                 : [C++](http://www.cplusplus.com/doc/)
