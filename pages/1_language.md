@@ -13,13 +13,15 @@ permalink: /language/
 
 ## Fortran
 * Started : 2017-03
-* Why I started this language : to code BCFD problems
+* Why I started this language :  
+to code BCFD problems
 * reference site :  
 [fortran/basics.html](http://seismic.yonsei.ac.kr/fortran/basics.html)
 
 ## C++ language
 * Started : 2017-06
-* Why I started this language : to use making program at company
+* Why I started this language :  
+to use making program at company
 * reference site :  
 [tutorialspoint.com](https://www.tutorialspoint.com/cprogramming/)  
 [cplusplus.com](http://www.cplusplus.com/doc/)
