@@ -1,5 +1,6 @@
 ---
 layout: post
+title: empty
 comments: false
 categories: diary
 ---
