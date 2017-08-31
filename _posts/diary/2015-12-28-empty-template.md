@@ -6,4 +6,6 @@ categories: diary
 
 ## Empty diary template
 
-Empty post template
+This is Empty post template
+
+You can put anything!
