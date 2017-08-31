@@ -2,7 +2,7 @@
 layout: post
 title:  "17 spring semester"
 date:   2017-08-31
-categories: semester2
+categories: memo
 comments: false
 ---
 
