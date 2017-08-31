@@ -26,42 +26,7 @@ permalink: /class/
 ### 2017 summer
 * Period : 2017-07-03 ~ 2017-07-31
 * Company : kw-tech
-* Contents :
-
- 1) STL vector  
-{% highlight lua %}
-std::vector<float> smt;  
-std::cout << smt.size() << std::endl;  
-// print 0  
-smt.push_back(data);  
-std::cout << smt.size() << std::endl;  
-// print data  
-{% endhighlight %}
-
- 2) STL map  
-{% highlight lua %}
-std::map<int, std::vector<float> > ten;
-// key : int type & value : float type  
-// ten[key] = value
-{% endhighlight %}
-
- 3) Class  
-{% highlight lua %}
-class smt
-{
-  member variables;
-  member functions;
-};
-
-void smt::member functions
-{ }
-
-int main()
-{
-  smt static;  
-  // class static allocation  
-  smt * dynamic = new smt();  
-  // class dynamic allocation  
-  return 0;
-}
-{% endhighlight %}
+* Contents :  
+ 1. STL vector  
+ 2. STL map  
+ 3. Class  
