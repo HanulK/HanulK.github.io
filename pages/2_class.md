@@ -18,8 +18,8 @@ permalink: /class/
 
 ### 2017 fall
 * Parallel programming
-* Industrial mathematics 1
-* Industrial mathematics 2
+* Industrial mathematics 1 : FVM (Fluid)
+* Industrial mathematics 2 : FDTD (Electromagnetics)
 
 ## Vacation
 
