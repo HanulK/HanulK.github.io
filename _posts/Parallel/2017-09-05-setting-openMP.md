@@ -33,7 +33,6 @@ comments: false
 	   return 0;   
   }   
 ```
-
-
+   
 * Result :   
 ![hello_result](https://github.com/HanulK/HanulK.github.io/blob/master/_posts/Parallel/hello.PNG?raw=true)
