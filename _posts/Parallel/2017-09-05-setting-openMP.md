@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2017 summer"
+title:  "OpenMP start"
 date:   2017-09-05
 categories: Parallel
 comments: false
