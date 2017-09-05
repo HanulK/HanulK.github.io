@@ -29,7 +29,7 @@ int main()
 	{
 		printf("Hello, Start openMP \n");
 	}
-  
+
 	return 0;
 }
 
