@@ -19,6 +19,7 @@ comments: false
 ### Simple Hello example
 * Code :   
 ```
+
 #include <stdio.h>
 #include <omp.h>
 
@@ -30,7 +31,8 @@ int main()
 	}
 	return 0;
 }
+
 ```
 
 * Result :   
-![hello_result](D:\github\HanulK.github.io\_posts\Parallel\hello.PNG)
+![hello_result](./_posts/Parallel/hello.PNG)
