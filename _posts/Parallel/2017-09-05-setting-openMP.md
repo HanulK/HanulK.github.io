@@ -17,9 +17,9 @@ comments: false
 * Reference site :  [http://untitledtblog.tistory.com/33](http://untitledtblog.tistory.com/33)
 
 ### Simple Hello example
-* Code :   
-```
+* Code :
 
+```
 #include <stdio.h>   
 #include <omp.h>   
 
@@ -32,7 +32,6 @@ int main()
 
 	return 0;   
 }   
-
 ```
 
 * Result :   
