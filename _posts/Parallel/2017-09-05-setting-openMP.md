@@ -20,19 +20,20 @@ comments: false
 * Code :   
 
 ```
-#include <stdio.h>   
-#include <omp.h>   
+  #include <stdio.h>   
+  #include <omp.h>   
 
-int main()   
-{   
-#pragma omp parallel   
-	{   
-		printf("Hello, Start openMP \n");   
-	}   
+  int main()   
+  {   
+    #pragma omp parallel   
+	   {   
+		     printf("Hello, Start openMP \n");   
+	   }   
 
-	return 0;   
-}   
+	   return 0;   
+  }   
 ```
+
 
 * Result :   
 ![hello_result](https://github.com/HanulK/HanulK.github.io/blob/master/_posts/Parallel/hello.PNG?raw=true)
