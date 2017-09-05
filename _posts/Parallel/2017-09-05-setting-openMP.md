@@ -36,4 +36,4 @@ int main()
 ```
 
 * Result :   
-![hello_result](./_posts/Parallel/hello.PNG)
+![hello_result](HanulK.github.io/_posts/Parallel/hello.PNG)
