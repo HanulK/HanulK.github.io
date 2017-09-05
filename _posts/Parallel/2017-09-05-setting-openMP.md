@@ -35,4 +35,4 @@ int main()
 ```
 
 * Result :   
-![hello_result](https://github.com/HanulK/HanulK.github.io/blob/master/_posts/Parallel/hello.PNG)
+![hello_result](https://github.com/HanulK/HanulK.github.io/blob/master/_posts/Parallel/hello.PNG?raw=true)
