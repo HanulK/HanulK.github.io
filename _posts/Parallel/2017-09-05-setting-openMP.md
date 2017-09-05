@@ -20,18 +20,18 @@ comments: false
 * Code :   
 ```
 
-#include <stdio.h>
-#include <omp.h>
+#include <stdio.h>   
+#include <omp.h>   
 
-int main()
-{
-#pragma omp parallel
-	{
-		printf("Hello, Start openMP \n");
-	}
+int main()   
+{   
+#pragma omp parallel   
+	{   
+		printf("Hello, Start openMP \n");   
+	}   
 
-	return 0;
-}
+	return 0;   
+}   
 
 ```
 
