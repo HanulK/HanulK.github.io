@@ -40,28 +40,28 @@ electric field vector components ->  magnetic field vector components -> electri
 
 
 
-### Review of electromagnetic theory
-#### Constitutive relations and material properties
+## Review of electromagnetic theory
+### Constitutive relations and material properties
 
-#### Time-Harmonic Maxwell's equations
+### Time-Harmonic Maxwell's equations
 
-#### Complex permittivity : dielectric losses
+### Complex permittivity : dielectric losses
 
-#### Complx permeability : magnetic losses
+### Complx permeability : magnetic losses
 
-#### Equivalent magnetic currents
+### Equivalent magnetic currents
 
-#### Electromagnetic potentials
+### Electromagnetic potentials
 
-#### Electromagnetic boudary conditions
+### Electromagnetic boudary conditions
 
-#### Electromagnetic waves
+### Electromagnetic waves
 
-#### the electromagnetic spectrum
+### the electromagnetic spectrum
 
 
-## Texts
+# Texts
 * U.S. Inan, R.A. Marshall, Numerical Electromagnetics - The FDTD Method, Cambridge, 2011. 1 - 68p
 
-## Reference site
+# Reference site
 * [Finite-difference_time-domain_method](https://en.wikipedia.org/wiki/Finite-difference_time-domain_method)
