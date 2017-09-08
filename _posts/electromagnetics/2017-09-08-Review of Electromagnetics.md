@@ -37,8 +37,8 @@ electric field vector components ->  magnetic field vector components -> electri
 
   The FVTD became popular in modeling electromagnetic problems due to its flexibility in modeling irregular structures. In this method, small volumes typically taken to be tetrahedra in 3D or triangles in 2D. These shapes simplify the resulting equations and can be designed around curved and complex structures quite well. It then uses the integral forms ( FVM using integral forms ) of Maxwell's eqs to conserve the field quantities.
 
-  ![tetrahedra](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1BoN3sbU-B-6CC4CXpxDUnb8Gvy3un0eAfzte51_ghYTYny16) 
-  ![triangle](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm0xbCqNq6qPoX4GtNwS8RaC0ZkMjyQRnIIFRG0D-maKVvuPC2)
+  ![tetrahedra](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1BoN3sbU-B-6CC4CXpxDUnb8Gvy3un0eAfzte51_ghYTYny16){:.center-img}
+  ![triangle](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm0xbCqNq6qPoX4GtNwS8RaC0ZkMjyQRnIIFRG0D-maKVvuPC2){:.center-img}
   < tetrahedra >  < triangle >
 
 #### Strengths
