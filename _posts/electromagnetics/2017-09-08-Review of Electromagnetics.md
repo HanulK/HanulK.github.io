@@ -55,6 +55,7 @@ electric field vector components ->  magnetic field vector components -> electri
 #### Strengths
     - Highly applicable : It maintains the spatial features of the FDTD method, but remoces time stepping
     - useful when solve dispersive materials problems
+    - It is good for broadband simulations
 
 #### Weaknesses
     - Requires solving a sparse matrix
