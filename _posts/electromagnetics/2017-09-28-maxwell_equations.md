@@ -14,13 +14,11 @@ comments: false
 # Maxwell equations
 Maxwell equations are fundamental rules in electromagnetics. It is consist of 4 coupled PDE   
 
-![maxwell](https://github.com/HanulK/HanulK.github.io/blob/master/pictures/maxwell1.PNG)
+![maxwell](HanulK.github.io/pictures/maxwell1.PNG)
 
 ## Faraday law
 
 $$ \zeta(s)=\sum_{i=1}^{\infty} \frac{1}{n^s} $$
-
-using MathJax
 
 ## Gauss law
 
