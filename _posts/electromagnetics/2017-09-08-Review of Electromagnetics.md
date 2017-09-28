@@ -51,12 +51,12 @@ electric field vector components ->  magnetic field vector components -> electri
   The FDFD method are extremely useful when a transient or broadband analysis is required. And in some problems that have scattering pattern, the frequency domain methods can be much more efficient instead time domain. Because, they avoid the need to step im time.
 
 ### Strengths
-    - Highly applicable : It maintains the spatial features of the FDTD method, but remoces time stepping
-    - useful when solve dispersive materials problems
-    - It is good for broadband simulations
+- Highly applicable : It maintains the spatial features of the FDTD method, but remoces time stepping
+- useful when solve dispersive materials problems
+- It is good for broadband simulations
 
 ### Weaknesses
-    - Requires solving a sparse matrix
+- Requires solving a sparse matrix
 
 # Texts
 * U.S. Inan, R.A. Marshall, Numerical Electromagnetics - The FDTD Method, Cambridge, 2011.
