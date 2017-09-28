@@ -9,22 +9,7 @@ comments: false
 * content
 {:toc}
 
-## Maxwell equations
+# Maxwell equations
+Maxwell equations are fundamental rules in electromagnetics. It is consist of 4 coupled PDE   
 
-### Constitutive relations and material properties
-
-### Time-Harmonic Maxwell's equations
-
-### Complex permittivity : dielectric losses
-
-### Complx permeability : magnetic losses
-
-### Equivalent magnetic currents
-
-### Electromagnetic potentials
-
-### Electromagnetic boudary conditions
-
-### Electromagnetic waves
-
-### the electromagnetic spectrum
+![maxwell]()
