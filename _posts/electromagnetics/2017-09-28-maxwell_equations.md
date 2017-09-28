@@ -14,12 +14,11 @@ comments: false
 # Maxwell equations
 Maxwell equations are fundamental rules in electromagnetics. It is consist of 4 coupled PDE   
 
-! [maxwell](https://github.com/HanulK/HanulK.github.io/blob/master/pictures/maxwell1.PNG?raw=true)
+![maxwell](https://github.com/HanulK/HanulK.github.io/blob/master/pictures/maxwell1.PNG?raw=true)
 
 ## Faraday law
 
 $$ \oint_{C}E\cdot\,dl=-\int_{S}^{}\frac{\partial B}{\partial t}\cdot \,ds $$
-$$ \zeta(s)=\sum_{i=1}^{\infty} \frac{1}{n^s} $$
 
 ## Gauss law
 
