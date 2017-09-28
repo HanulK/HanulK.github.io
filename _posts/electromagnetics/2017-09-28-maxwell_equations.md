@@ -20,14 +20,15 @@ Maxwell equations are fundamental rules in electromagnetics. It is consist of 4 
 
 ![maxwell](https://github.com/HanulK/HanulK.github.io/blob/master/pictures/maxwell1.PNG)
 
-## Faraday's law
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
+## Faraday law
 
-## Gauss's law
+\\(x = {-b \pm \sqrt{b^2-4ac} \over 2a}\\)
 
-## Ampere's law
+## Gauss law
 
-## Gauss's law for magnetism
+## Ampere law
+
+## Gauss law for magnetism
 
 # Reference site
 * []()
