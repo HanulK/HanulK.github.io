@@ -6,11 +6,7 @@ categories: electromagnetics
 comments: false
 ---
 
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-    displayAlign: "center"
-});
-</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 * content
 {:toc}
@@ -22,7 +18,8 @@ Maxwell equations are fundamental rules in electromagnetics. It is consist of 4 
 
 ## Faraday law
 
-\\(x = {-b \pm \sqrt{b^2-4ac} \over 2a}\\)
+$$ \zeta(s)=\sum_{i=1}^{\infty} \frac{1}{n^s} $$
+
 
 ## Gauss law
 
