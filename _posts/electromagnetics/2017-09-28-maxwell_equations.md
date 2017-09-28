@@ -18,7 +18,7 @@ Maxwell equations are fundamental rules in electromagnetics. It is consist of 4 
 
 ## Faraday law
 
-$$ \oint_{C} E \cdot \, dl =-\int_{S}\frac{\partial B}{\partial t}\cdot \,ds $$
+$$ \oint_{C}E\cdot\,dl=-\int_{S}^{}\frac{\partial B}{\partial t}\cdot \,ds $$
 $$ \zeta(s)=\sum_{i=1}^{\infty} \frac{1}{n^s} $$
 
 ## Gauss law
