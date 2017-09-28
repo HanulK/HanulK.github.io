@@ -58,7 +58,7 @@ In detail, there are no magnetic monopole means that when one bar magnet divided
 
 
 # Reference site
-* [https://em.geosci.xyz/content/maxwell1_fundamentals/formative_laws/faraday.html](https://em.geosci.xyz/content/maxwell1_fundamentals/formative_laws/faraday.html)
-* [https://em.geosci.xyz/content/maxwell1_fundamentals/formative_laws/gauss_electric.html](https://em.geosci.xyz/content/maxwell1_fundamentals/formative_laws/gauss_electric.html)
-* [https://em.geosci.xyz/content/maxwell1_fundamentals/formative_laws/ampere_maxwell.html](https://em.geosci.xyz/content/maxwell1_fundamentals/formative_laws/ampere_maxwell.html)
-* [https://em.geosci.xyz/content/maxwell1_fundamentals/formative_laws/gauss_magnetic.html](https://em.geosci.xyz/content/maxwell1_fundamentals/formative_laws/gauss_magnetic.html)
+* [faraday.html](https://em.geosci.xyz/content/maxwell1_fundamentals/formative_laws/faraday.html)
+* [gauss_electric.html](https://em.geosci.xyz/content/maxwell1_fundamentals/formative_laws/gauss_electric.html)
+* [ampere_maxwell.html](https://em.geosci.xyz/content/maxwell1_fundamentals/formative_laws/ampere_maxwell.html)
+* [gauss_magnetic.html](https://em.geosci.xyz/content/maxwell1_fundamentals/formative_laws/gauss_magnetic.html)
