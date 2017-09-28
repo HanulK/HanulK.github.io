@@ -20,6 +20,7 @@ Maxwell equations are fundamental rules in electromagnetics. It is consist of 4 
 
 $$ \zeta(s)=\sum_{i=1}^{\infty} \frac{1}{n^s} $$
 
+using MathJax
 
 ## Gauss law
 
