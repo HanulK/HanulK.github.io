@@ -20,6 +20,8 @@ comments: false
 | Magnetic | Intensity | $$ \mathbf{H} $$ |     A/m     |  
 |          | Density   | $$ \mathbf{B} $$ |      T      |  
 
+
+
 # Meterial properties   
 There many material properties such as permittivity, permeability and so on.
 
@@ -50,7 +52,7 @@ Conductivity is a different quantity above two. It is the property of material w
 | Permeability      |    $$ \mu_0 $$    | $$ 4\pi\times 10^-7 $$           |    H/m     |
 
 
-
+   
 # Reference site
 * [faraday.html](https://em.geosci.xyz/content/maxwell1_fundamentals/formative_laws/faraday.html)
 * [gauss_electric.html](https://em.geosci.xyz/content/maxwell1_fundamentals/formative_laws/gauss_electric.html)
