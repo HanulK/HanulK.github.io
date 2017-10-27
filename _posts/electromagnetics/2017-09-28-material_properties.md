@@ -15,10 +15,10 @@ comments: false
 
 |   Field  |  Quantity |      Symbol     |     Unit    |
 | :------- | :-------- | :-------------- | :---------- |
-| Electric | Intensity | $$ mathbf{E} $$ |     V/s     |  
-|          | Density   | $$ mathbf{D} $$ | $$ C/m^2 $$ |  
-| Magnetic | Intensity | $$ mathbf{H} $$ |     A/m     |  
-|          | Density   | $$ mathbf{B} $$ |      T      |  
+| Electric | Intensity | $$ \mathbf{E} $$ |     V/s     |  
+|          | Density   | $$ \mathbf{D} $$ | $$ C/m^2 $$ |  
+| Magnetic | Intensity | $$ \mathbf{H} $$ |     A/m     |  
+|          | Density   | $$ \mathbf{B} $$ |      T      |  
 
 # Meterial properties   
 There many material properties such as permittivity, permeability and so on.
