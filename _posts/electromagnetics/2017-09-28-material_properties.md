@@ -30,7 +30,7 @@ These constants has relation like these(right side equation on ppt)
 
 
 
-## Permittivity
+## Permittivity ($$  $$)
 
 ## Permeability
 
