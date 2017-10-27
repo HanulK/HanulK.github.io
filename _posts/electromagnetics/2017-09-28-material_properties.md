@@ -24,16 +24,22 @@ comments: false
 There many material properties such as permittivity, permeability and so on.
 
 ## Velocity of wave ($$ c $$)  
-$$ c $$ indicate a velocity of electromagnetic wave in free space. Especially, $$ \c_0 $$ means a velocity of light in free space. And $$ \epsilon_0 $$ and $$ \mu_0 $$ are characteristics of each field. The $$ \epsilon_0 $$, permittivity indicates that how well electric fields flow in free space. And $$ \mu_0 $$, permeability means how well magnetic field flow through the material.
-These constants has relation like under.   
-$$ \c_0 = \frac{1}{\sqrt{\epsilon_0 \mu_0}} $$
+$$ c $$ indicate a velocity of electromagnetic wave in free space. Especially, $$ c_0 $$ means a velocity of light in free space. And $$ \epsilon_0 $$ and $$ \mu_0 $$ are characteristics of each field. The $$ \epsilon_0 $$, permittivity indicates that how well electric fields flow in free space. And $$ \mu_0 $$, permeability means how well magnetic field flow through the material.
+These constants has relation like under.
 
+$$ c_0 = \frac{1}{\sqrt{\epsilon_0 \mu_0}} $$
 
 ## Permittivity ($$ \epsilon_0 $$)
+It is a proportionality constant between D and E in free space. And it indicates that how well electric fields flow in free space.
 
 ## Permeability ($$ \mu_0 $$)
+It is a proportionality constant between B and H in free space. And it means how well magnetic field flow through the material.
 
-## Conductivity ($$ sigma $$)
+## Conductivity ($$ \sigma $$)
+Conductivity is a different quantity above two. It is the property of material with allow the flow of electric current through material. It indicates how easily electric current can flow through the material.
+
+
+
 
 < in free space >    
 
