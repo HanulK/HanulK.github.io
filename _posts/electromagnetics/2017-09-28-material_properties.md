@@ -36,6 +36,7 @@ $$ \c_0 = \frac{1}{\sqrt{\epsilon_0 \mu_0}} $$
 ## Conductivity ($$ sigma $$)
 
 < in free space >    
+
 |        Name       |       Symbol      |               Value              |    Unit    |   
 | :---------------- | :---------------- | :------------------------------- | :--------- |   
 | Velocity of light |    $$ c_0 $$      | $$ 3\times 10^8 $$               |    m/s     |  
