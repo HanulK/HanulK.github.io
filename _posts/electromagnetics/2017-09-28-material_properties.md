@@ -24,26 +24,23 @@ comments: false
 There many material properties such as permittivity, permeability and so on.
 
 ## Velocity of wave ($$ c $$)  
-$$ c $$ indicate a velocity of electromagnetic wave in free space. Especially, c_0 means a velocity of light in free space. And epsilon_0 and mu_0 are characteristics of each field. The epsilon_0, permittivity indicates that how well electric fields flow in free space. And mu_0, permeability means how well magnetic field flow through the material.
-These constants has relation like these(right side equation on ppt)
+$$ c $$ indicate a velocity of electromagnetic wave in free space. Especially, $$ \c_0 $$ means a velocity of light in free space. And $$ \epsilon_0 $$ and $$ \mu_0 $$ are characteristics of each field. The $$ \epsilon_0 $$, permittivity indicates that how well electric fields flow in free space. And $$ \mu_0 $$, permeability means how well magnetic field flow through the material.
+These constants has relation like under.   
+$$ \c_0 = \frac{1}{\sqrt{\epsilon_0 \mu_0}} $$
 
 
+## Permittivity ($$ \epsilon_0 $$)
 
+## Permeability ($$ \mu_0 $$)
 
-## Permittivity ($$  $$)
+## Conductivity ($$ sigma $$)
 
-## Permeability
-
-## Conductivity
-
-
-
-|        Name       |       Symbol      |               Value              |    Unit    |
-| :---------------- | :---------------- | :------------------------------- | :--------- |
+< in free space >    
+|        Name       |       Symbol      |               Value              |    Unit    |   
+| :---------------- | :---------------- | :------------------------------- | :--------- |   
 | Velocity of light |    $$ c_0 $$      | $$ 3\times 10^8 $$               |    m/s     |  
 | Permittivity      | $$ \epsilon_0 $$  | $$ \frac{1}{36\pi}\times 10^-9 $$|    F/m     |  
-| Permeability      |    $$ \mu_0 $$    | $$ 4\pi\times 10^-7 $$           |    H/m     |  
-< in free space >
+| Permeability      |    $$ \mu_0 $$    | $$ 4\pi\times 10^-7 $$           |    H/m     |
 
 
 
